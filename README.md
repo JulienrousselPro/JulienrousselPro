@@ -18,11 +18,10 @@ Je code surtout en JavaScript / TypeScript, sur des projets full-stack (React, N
 
 ## 🚀 Quelques projets
 
-- **[ParkWait](#)** — une app qui affiche les temps d'attente des manèges dans les parcs d'attractions, avec météo intégrée · [🔗 démo en ligne](https://parkwait.vercel.app/)
-- **[LégendesFC](#)** — une app foot en React/TypeScript, avec fiches joueurs, stats, et récupération des logos de clubs *(pas encore déployée)*
-- **[Vigie](#)** — une app de suivi d'incidents, développée en équipe *(en cours de développement)*
+- **[ParkWait](https://parkwait.vercel.app/)** — une app qui affiche les temps d'attente des manèges dans les parcs d'attractions, avec météo intégrée · <span style="color: #f28b82;">projet de formation</span>
+- **[LégendesFC](#)** — une app foot en React/TypeScript, avec fiches joueurs, stats, et récupération des logos de clubs *(pas encore déployée)* · <span style="color: #f28b82;">projet de formation</span>
+- **[Vigie](#)** — une app de suivi d'incidents, développée en équipe *(en cours de développement)* · <span style="color: #f28b82;">projet de formation</span>
 
-*(remplace les `#` par les vrais liens de tes repos)*
 
 ## ⚽🎮 En dehors du code
 
